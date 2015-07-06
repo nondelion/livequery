@@ -1,0 +1,21 @@
+{
+  "name": "livequery",
+  "version": "1.1.1",
+  "homepage": "https://github.com/brandonaaron/livequery",
+  "author": "Brandon Aaron (http://brandon.aaron.sh)",
+  "description": "A jQuery plugin that helps with dynamic DOMs.",
+  "main": "./jquery.livequery.js",
+  "keywords": [
+    "jquery",
+    "dom",
+    "mutation",
+    "event",
+    "observer",
+    "mutationevent",
+    "mutationobserver",
+    "behavior",
+    "plugin",
+    "browser"
+  ],
+  "license": "MIT"
+}
